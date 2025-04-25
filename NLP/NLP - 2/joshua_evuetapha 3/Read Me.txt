@@ -1,3 +1,0 @@
-1. GET_DATA_From_Redit.ipynb : This file contains the codes that gets the posts from Reddit, the api keys are included.
-2. Topic Modelling on Financial Posts from Redit.ipynb : This file contains the codes that build and train the topic model.
-3. data: This fold contains the reddit posts collected using the reddit api, for reference purposes.

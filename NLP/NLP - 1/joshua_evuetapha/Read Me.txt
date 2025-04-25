@@ -1,3 +1,0 @@
-1. GET_DATA_From_LLM.ipynb : This file contains the codes that interacts with the LLMs to get their response.
-2. Catch the LLM Text Classification.ipynb: This file contains the codes that build, trains and evaluates the Text Classification Models.
-3. data: This fold contains the LLM responses and prompt file, for reference purposes.
